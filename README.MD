@@ -8,7 +8,7 @@ A simple calculator application for performing basic arithmetic operations.
 - Subtraction
 - Multiplication
 - Division
-- Clear button
+- Clear buttons
 - Error handling for invalid input
 
 ## How to Use
